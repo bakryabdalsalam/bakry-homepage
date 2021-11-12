@@ -1,7 +1,7 @@
 {
-  "name": "bakry-homepage",
+  "name": "craftzdog-homepage",
   "version": "1.0.0",
-  "description": "Bakry's website",
+  "description": "Takuya's website",
   "scripts": {
     "dev": "next dev -H 0.0.0.0",
     "build": "next build",
@@ -10,8 +10,8 @@
     "lint": "next lint"
   },
   "keywords": [],
-  "author": "Bakry Abdalsalam",
-  "license": "123",
+  "author": "Takuya Matsuyama",
+  "license": "MIT",
   "dependencies": {
     "@chakra-ui/icons": "^1.0.15",
     "@chakra-ui/react": "^1.6.9",
