@@ -7,9 +7,6 @@ import thumbFishWorkflow from '../public/images/contents/youtube-fish-workflow.p
 import thumbMyDeskSetup from '../public/images/contents/youtube-my-desk-setup.png'
 import thumb500PaidUsers from '../public/images/contents/blog-500-paid-users.png'
 import thumbFinancialGoal from '../public/images/contents/blog-financial-goal.png'
-import thumbHowToPriceYourself from '../public/images/contents/blog-how-to-price-yourself.jpg'
-import thumb50xFaster from '../public/images/contents/youtube-50x-faster.jpg'
-
 const Posts = () => (
   <Layout title="sourceCode">
     <Container>
